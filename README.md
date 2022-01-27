@@ -1,3 +1,6 @@
+Used to generate charts on the fly.
+
+
 QuickChart
 ---
 [![Build Status](https://api.travis-ci.com/typpo/quickchart.svg?branch=master)](https://travis-ci.com/typpo/quickchart)
